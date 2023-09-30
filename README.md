@@ -18,7 +18,7 @@ This project is licensed under the MIT license.
 A fully responsive website for my real estate client Olivier Chabin. Experience seamless navigation by exploring his journey, services, and effortlessly get in touch. All this in a responsive, user-friendly application.
 
 ## **About Me**
-<img src="./images/OlivierAboutMEScreenshot.png" alt="Screenshot for the About Me page" width="1000"/>
+<img src="./images/OlivierAboutMeScreenshot.png" alt="Screenshot for the About Me page" width="1000"/>
 
 ## **FAQ**
 <img src="./images/OlivierFAQScreenshot.png" alt="Screenshot for the FAQ page" width="1000"/>
