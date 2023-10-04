@@ -1,11 +1,13 @@
 # **Olivier Chabin**
-<img src="./images/OlivierWebsiteScreenshotEdited2.png" alt="Screenshot for the Home page" width="1000"/>
+<img src="./images/OlivierHomeScreenshot.png" alt="Screenshot for the Home page" width="1000"/>
 
 ## **Table of Contents**
 - [License](#license)
 - [Project Overview](#project-overview)
 - [About Me](#about-me)
+- [Market Data](#market-data)
 - [FAQ](#faq)
+- [Testimonials](#testimonials)
 - [Contact Me](#contact-me)
 - [Unique Technologies](#unique-technologies)
 - [Technologies Used](#technologies-used)
@@ -20,14 +22,17 @@ A fully responsive website for my real estate client Olivier Chabin. Experience 
 ## **About Me**
 <img src="./images/OlivierAboutMeScreenshot.png" alt="Screenshot for the About Me page" width="1000"/>
 
+## **Market Data**
+<img src="./images/OlivierMarketDataScreenshot.png" alt="Screenshot for the About Me page" width="1000"/>
+
 ## **FAQ**
 <img src="./images/OlivierFAQScreenshot.png" alt="Screenshot for the FAQ page" width="1000"/>
 
+## **Testimonials**
+<img src="./images/OlivierTestimonialsScreenshot.png" alt="Screenshot for the FAQ page" width="1000"/>
+
 ## **Contact Me**
 <img src="./images/OlivierContactMeScreenshot.png" alt="Screenshot for the Contact Me page" width="1000"/>
-
-
-
 
 ## **Unique Technologies**
 **Next.js**
